@@ -18,7 +18,7 @@ import org.objectweb.asm.tree.VarInsnNode;
 
 import se.mistas.optimization.EntryPoint;
 import se.mistas.optimization.Processor;
-import se.mistas.optimization.annotations.tailoptimization.TailMethod;
+import se.mistas.optimization.annotations.TailMethod;
 
 @SuppressWarnings("unchecked")
 public class TailCheckProcessor implements Processor, Opcodes {

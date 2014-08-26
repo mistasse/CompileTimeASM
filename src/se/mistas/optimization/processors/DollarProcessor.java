@@ -10,7 +10,7 @@ import org.objectweb.asm.tree.MethodNode;
 
 import se.mistas.optimization.EntryPoint;
 import se.mistas.optimization.Processor;
-import se.mistas.optimization.annotations.tailoptimization.Dollarify;
+import se.mistas.optimization.annotations.Dollarify;
 
 @SuppressWarnings("unchecked")
 public class DollarProcessor implements Processor, Opcodes {

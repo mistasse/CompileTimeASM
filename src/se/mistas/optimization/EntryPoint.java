@@ -16,9 +16,9 @@ import org.objectweb.asm.tree.AnnotationNode;
 import org.objectweb.asm.tree.ClassNode;
 import org.objectweb.asm.tree.MethodNode;
 
-import se.mistas.optimization.annotations.tailoptimization.DollarClass;
-import se.mistas.optimization.annotations.tailoptimization.JREVersion;
-import se.mistas.optimization.annotations.tailoptimization.TailClass;
+import se.mistas.optimization.annotations.DollarClass;
+import se.mistas.optimization.annotations.JREVersion;
+import se.mistas.optimization.annotations.TailClass;
 import se.mistas.optimization.processors.DollarProcessor;
 import se.mistas.optimization.processors.JREVersionProcessor;
 import se.mistas.optimization.processors.TailCheckProcessor;
