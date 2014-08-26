@@ -9,3 +9,5 @@ At the moment, the processor has 3 purposes:
 - Modify the min required JRE version for loading this class file
 
 The annotation also disappear from the source code once the class recompiled. So if the retention is on "RUNTIME", it's only for a short time.
+
+ This project is under the `CC-BY-NC-SA License <http://creativecommons.org/licenses/by-nc-sa/4.0/>`_. Contributions are welcome.
